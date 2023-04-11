@@ -10,6 +10,7 @@ function App() {
         height={92}
         src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
       ></img>
+      <button onClick={() => alert('WAW')} >Wesh</button>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
